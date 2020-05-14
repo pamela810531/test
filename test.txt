@@ -1,1 +1,1 @@
-this the first commit.
+this the first commit, I hope the conflicts are easy to solve.
