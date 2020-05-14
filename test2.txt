@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is the second text file for testing conficts, ahhhhhhhhhhhhhhhh damn.
+=======
+This is the second text file that has been changed.
+>>>>>>> 0934d865401e78ae824c31f61251e2a7469355f2

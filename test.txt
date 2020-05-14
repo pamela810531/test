@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this the first commit, I hope the conflicts are easy to solve.
+=======
+this the commit that has been changed.
+>>>>>>> 0934d865401e78ae824c31f61251e2a7469355f2
