@@ -1,1 +1,1 @@
-This is the second text file for testing conficts.
+This is the second text file that has been changed.
